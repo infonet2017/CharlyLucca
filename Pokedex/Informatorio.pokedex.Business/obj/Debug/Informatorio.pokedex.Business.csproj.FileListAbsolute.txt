@@ -1,0 +1,8 @@
+C:\Users\CHARLY\Desktop\git Dot Net\examples\Informatorio.Pokedex\Informatorio.pokedex.Business\bin\Debug\Informatorio.pokedex.Business.dll
+C:\Users\CHARLY\Desktop\git Dot Net\examples\Informatorio.Pokedex\Informatorio.pokedex.Business\bin\Debug\Informatorio.pokedex.Business.pdb
+C:\Users\CHARLY\Desktop\git Dot Net\examples\Informatorio.Pokedex\Informatorio.pokedex.Business\bin\Debug\Informatorio.Pokedex.Data.dll
+C:\Users\CHARLY\Desktop\git Dot Net\examples\Informatorio.Pokedex\Informatorio.pokedex.Business\bin\Debug\Informatorio.Pokedex.Data.pdb
+C:\Users\CHARLY\Desktop\git Dot Net\examples\Informatorio.Pokedex\Informatorio.pokedex.Business\obj\Debug\Informatorio.pokedex.Business.csprojResolveAssemblyReference.cache
+C:\Users\CHARLY\Desktop\git Dot Net\examples\Informatorio.Pokedex\Informatorio.pokedex.Business\obj\Debug\Informatorio.pokedex.Business.csproj.CoreCompileInputs.cache
+C:\Users\CHARLY\Desktop\git Dot Net\examples\Informatorio.Pokedex\Informatorio.pokedex.Business\obj\Debug\Informatorio.pokedex.Business.dll
+C:\Users\CHARLY\Desktop\git Dot Net\examples\Informatorio.Pokedex\Informatorio.pokedex.Business\obj\Debug\Informatorio.pokedex.Business.pdb
